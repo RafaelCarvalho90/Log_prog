@@ -1,2 +1,3 @@
 # Log_prog
-Aula 1 Serratec
+Repositorio das Lista feitas durante a residencia Serratec 2023
+
